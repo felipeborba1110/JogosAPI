@@ -1,4 +1,4 @@
-# 🎮 API de Jogos
+# API de Jogos
 
 API REST desenvolvida com **Node.js**, **Express**, **Firebase** e **JWT** para gerenciamento de usuários, catálogo de jogos e biblioteca pessoal.
 
